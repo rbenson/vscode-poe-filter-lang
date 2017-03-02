@@ -2,7 +2,7 @@
 
 This is my first language definition for VS Code. It adds colors to `.filter` files if you rather edit the file directly, versus using [Filtration](https://github.com/ben-wallis/Filtration).
 
-![Screenshot of the theme](http://link)
+![Screenshot of the theme](https://raw.githubusercontent.com/rbenson/vscode-poe-filter-lang/master/screenshot.jpg)
 
 ## Known Issues
 
