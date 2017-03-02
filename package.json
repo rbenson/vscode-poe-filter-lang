@@ -1,0 +1,26 @@
+{
+    "name": "poe-filter",
+    "displayName": "PoE_Filter",
+    "description": "Language support for Path of Exile filters",
+    "version": "0.0.1",
+    "publisher": "RyanB",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "filter",
+            "aliases": ["PoE Filter", "filter"],
+            "extensions": [".filter"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "filter",
+            "scopeName": "source.filter",
+            "path": "./syntaxes/filter.tmLanguage.json"
+        }]
+    }
+}
