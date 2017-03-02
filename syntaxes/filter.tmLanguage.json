@@ -17,7 +17,7 @@
     {  
        "comment": "Conditions",
        "name": "entity.name.function",
-       "match": "(ItemLevel|DropLevel|Quality|Rarity|Class|BaseType|Sockets|LinkedSockets|SocketGroup|Height|Width|Identified|Corrupted|SetBorderColor|SetTextColor|SetBackgroundColor|SetFontSize)"
+       "match": "(ItemLevel|DropLevel|Quality|Rarity|Class|BaseType|Sockets|LinkedSockets|SocketGroup|Height|Width|Identified|Corrupted|SetBorderColor|SetTextColor|SetBackgroundColor|SetFontSize|PlayAlertSound)"
     },
     {  "name": "constant.language",
        "match": "(True|False)"
