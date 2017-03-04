@@ -31,9 +31,9 @@
       "match": "(Normal|Magic|Rare|Unique)"
     },
     {
-      "comment": "Socket Colors",
+      "comment": "Sockets Colors",
       "name": "variable.other",
-      "match": "\b(R|G|B|W|RGB)\b"
+      "match": "[RGBW]+$"
     },
 		{
 			"name": "string.quoted.double",
