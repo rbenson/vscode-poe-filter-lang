@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "poe-filter" extension will be documented in this file.
+All notable changes to the Path of Exile filter language extension will be documented in this file.
 
 ## [0.1.1] - 2017-03-03
 
